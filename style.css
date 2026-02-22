@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    background-color: burlywood;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: var(--container-5xl);
+}
+
+.main-container {
+    width: 100%;
+    max-width: 450px;
+}
