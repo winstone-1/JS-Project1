@@ -18,7 +18,7 @@ This project is an interactive personalized webpage built using HTMl, JavaScript
 
 
 ## Live Link
-[see my website](https://github.com/winstone-1/TrustUS.git)
+[see my website](https://github.com/winstone-1/JS-Project1.git)
 
 ## set up abt installation
 ### clone the repository
