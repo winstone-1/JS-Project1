@@ -3,11 +3,14 @@ body {
     background-color: burlywood;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    min-height: 450px;
     width: var(--container-5xl);
+    padding: 20px;
+    transition: all 0.3s ease-in-out;
 }
 
 .main-container {
     width: 100%;
     max-width: 450px;
+    margin-top: 20px;
 }
