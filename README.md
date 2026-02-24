@@ -14,7 +14,7 @@ This project is an interactive personalized webpage built using HTMl, JavaScript
 
 ## Screenshot
 
-![screenshot](assets\screenshot1.png)
+![Alt Text](assets\screenshot1.png)
 
 
 ## Live Link
